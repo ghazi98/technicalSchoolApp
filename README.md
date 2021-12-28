@@ -84,3 +84,7 @@ StudentEvaluation class contains:
 - four static methods. Each method returns a Student object populated with results from the Transcript Tables below. To test and demonstrate my implementation of the certification algorithm, I need to print out the result for students Robin, Kate, Axel, and Jim. I also need to provide more examples of students to show the functionality of my code.
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/61443806/147512128-b17a2eb3-2f3a-4ecd-91e5-177d1164b3ea.png">
+
+<img width="229" alt="Screenshot 2021-11-21 235556 (1)" src="https://user-images.githubusercontent.com/61443806/147515439-c8390869-7ec4-4007-bd26-eecaa00d9017.png">
+
+
